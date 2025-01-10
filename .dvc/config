@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = /home/dvijesh-pt7720/Desktop/Storage2
